@@ -10,7 +10,7 @@ global.email = 'sam@sec.live'
 global.github = 'https://github.com/prabathLK/PRABATH-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.devs = '94762280384';
+global.devs = '263712473551';
 global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
 module.exports = {
@@ -21,15 +21,15 @@ module.exports = {
   sudo: process.env.SUDO || '94762280384',
   alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
   alivemsj: process.env.ALIVE_MSJ || '*POWERD BY PRABATH-MD* 🎊',
-  ownername:process.env.OWNER_NAME || 'PRABATH',
-  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  ownername:process.env.OWNER_NAME || 'JAYDEN',
+  sessionName: process.env.SESSION_ID || 'PRABATH-MD~RNgzhDoK#18xV2Zrl3VrqGp7X8fUWSf4IwkUlrHpEKOR-h4AYB98',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
   packname: process.env.PACK_INFO.split(";")[1] || 'Name',
   autoreaction: process.env.AUTO_REACTION || 'off',
   antibadword : process.env.ANTI_BAD_WORD || 'fuck,huth,fucking,huththa,huththo,hukanna,fucked,pakaya,pako,ponnaya,ponnayo,kariya,kariyo,huththaa,hutta',
   alwaysonline: process.env.ALWAYS_ONLINE || 'true',
-  antifake : process.env.FAKE_COUNTRY_CODE || '',
+  antifake : process.env.FAKE_COUNTRY_CODE || '92',
   readmessage: process.env.READ_MESSAGE || true,
   HANDLERS: process.env.PREFIX || ['.'],
   warncount : process.env.WARN_COUNT || 3,
